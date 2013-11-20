@@ -1,4 +1,6 @@
 *.class
+.classpath
+.project
 
 # Package Files #
 *.jar
@@ -8,4 +10,9 @@
 # "temporary" build files
 /target
 /target-eclipse
+
+# "workspace" files
+.metadata/
+.settings/
+
 
